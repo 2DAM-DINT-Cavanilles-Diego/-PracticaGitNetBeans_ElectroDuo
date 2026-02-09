@@ -1,13 +1,16 @@
+package calculadoragit;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package calculadoragit;
 
 /**
  *
- * @author dieberalv
+ * @author franc
  */
-public class Main {
-    
+public class Resta {
+    public int restar(int a, int b) {
+        return a - b;
+    }
 }
