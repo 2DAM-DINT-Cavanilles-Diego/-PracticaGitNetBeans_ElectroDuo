@@ -12,7 +12,7 @@ public class Calculadora {
     public static void main(String[] args){
         Suma s = new Suma();
         Resta r = new Resta();
-        Multiplicacion m = new Multiplicacion();
+        multiplicacion m = new multiplicacion();
         
         System.out.println("5 + 3 = " + s.sumar(5, 3));
         System.out.println("5 - 3 = " + r.restar(5, 3));
