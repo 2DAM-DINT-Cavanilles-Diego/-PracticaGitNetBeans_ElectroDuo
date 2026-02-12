@@ -9,7 +9,7 @@ package operaciones;
  * @author franc
  */
 public class multiplicacion {
-    public int multiplicar(int a, int b){
+    public int multiplicar(int a, int b) {
         return a * b;
     }
 }
